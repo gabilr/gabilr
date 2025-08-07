@@ -5,7 +5,6 @@ Sou desenvolvedora front-end com foco em criar interfaces modernas, responsivas 
 
 🚀 Em breve, mais projetos práticos e desafiadores por aqui!
 
-
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
