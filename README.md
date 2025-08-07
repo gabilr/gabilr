@@ -1,4 +1,4 @@
-Gabriela Rodrigues
+
 🧠 Desenvolvedora Front-End | HTML • CSS • JavaScript • React
 
 Sou desenvolvedora front-end com foco em criar interfaces modernas, responsivas e intuitivas. Tenho paixão por transformar ideias em projetos reais usando HTML, CSS, JavaScript e React. Estou em constante aprendizado e sempre buscando evoluir com boas práticas e código limpo.
