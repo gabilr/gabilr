@@ -1,5 +1,4 @@
-Hi,
-Sou Gabriela Rodrigues, desenvolvedora Front-End, estou aprendendo e desenvolvendo projetos com HTML,CSS ,JS e iniciando aprendizado com REACT
+"Desenvolvedora Front-End em formação, com foco em HTML, CSS, JavaScript e React. Apaixonada por transformar ideias em interfaces intuitivas e responsivas. Em constante aprendizado e construindo projetos práticos."
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
